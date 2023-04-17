@@ -1,1 +1,2 @@
-Hello we started git
+comment 2
+we are going to check pull command
