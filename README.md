@@ -16,8 +16,12 @@ every sense of nature converges into a *single energetic joy*.
 3. It is the **togetherness** of what is separate, the glue in the universe.
 [For more details visit here](https://www.google.com)
 # Logo
+
+
 Logo:
-![inner text]( https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![inner text](https://fileinfo.com/img/ss/xl/png_79.png)
+
+
 ___
 We are using simple foot note[^1].
 # Table
@@ -28,3 +32,7 @@ We are using simple foot note[^1].
 | b    |  2   |
 ***
 > we use this for notes
+
+
+# For More reference
+[![You Tube](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
