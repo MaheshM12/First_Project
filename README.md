@@ -19,7 +19,7 @@ every sense of nature converges into a *single energetic joy*.
 Logo:
 ![inner text]( https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 ___
-We are using simple foot note[^1]
+We are using simple foot note[^1].
 # Table
 ***
 | *C1* | *C2* |
