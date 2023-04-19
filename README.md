@@ -15,24 +15,27 @@ every sense of nature converges into a *single energetic joy*.
 2. And so, as the each leaf ~moves~ in ~~the wind~~, a part of me does also.
 3. It is the **togetherness** of what is separate, the glue in the universe.
 [For more details visit here](https://www.google.com)
-# Logo
+# Image
 
 
-Logo:
+Image:
 ![inner text](https://fileinfo.com/img/ss/xl/png_79.png)
 
 
 ___
-We are using simple foot note[^1].
+We are using simple foot note.[^1].
+[^1]:here is your note
 # Table
 ***
-| *C1* | *C2* |
-|-----:|-----:|      
-| a    |  1   |
-| b    |  2   |
+| *Name* | *std ID* |
+|-----:|-----------:|      
+| std1 |   1        |
+| std2 |   2        |
+| std3 |   3        |
 ***
 > we use this for notes
 
 
 # For More reference
-[![You Tube](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE]([http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-logo-png-15.png))](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
