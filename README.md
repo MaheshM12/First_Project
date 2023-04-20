@@ -37,5 +37,5 @@ We are using simple foot note.[^1].
 
 
 # For More reference
-[![IMAGE ALT TEXT HERE]([http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-logo-png-15.png))](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-logo-png-15.png))](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
